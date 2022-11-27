@@ -10,7 +10,7 @@ Authors: Hao Zheng, Songlin Huang, Jing Zhang, Ren Zhang, Jialu Wang, Jing Yuan,
 * Getting started
 * Output files
 
-software requirements
+# software requirements
 
 The algorithm was implemented in MATLAB (R2022a, The MathWorks, Natick, Massachusetts, USA) using custom-written scripts with dependencies on the Image Processing Toolbox and Statistics and Machine Learning Toolbox.
 
