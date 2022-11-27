@@ -17,7 +17,11 @@ The algorithm was implemented in MATLAB (R2022a, The MathWorks, Natick, Massachu
 # Getting started
 Add the C1M2 folder to the Matlab path
 
-There are three scripts for F4/80, CD11c and CX3CR1, respectively.
+The script of two_channel_f480.m, two_channel_cd11c.m and single_channel_cx3cr1.m for instance segmentation of F4/80, CD11c and CX3CR1, respectively.
+
+The script of annotate_quantification.m for annotation and quantification.
+
+The script of compute_AP.m for computing the standard average precision metric
 
 # Output files
 
