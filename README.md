@@ -20,7 +20,7 @@ Add the C1M2 folder to the Matlab path
 Example CZI data can be downloaded from the 
   [here](https://drive.google.com/file/d/14XyqgbmYaDFn46NxkOIlM9CeIktH3awT/view?usp=sharing)
 
-The script of two_channel_f480.m, two_channel_cd11c.m and single_channel_cx3cr1.m for instance segmentation of F4/80<sub>+, CD11c<sub>+ and Cx3Cr1<sub>+, respectively.
+The script of two_channel_f480.m, two_channel_cd11c.m and single_channel_cx3cr1.m for instance segmentation of F4/80<sup>+</sup>, CD11c<sup>+</sup> and Cx3Cr1<sup>+</sup>, respectively.
 
 The script of annotate_quantification.m for annotation and quantification.
 
