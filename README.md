@@ -4,6 +4,9 @@ C1M2: a universal algorithm for 3D instance segmentation, annotation and quantif
 
 Authors: Hao Zheng, Songlin Huang, Jing Zhang, Ren Zhang, Jialu Wang, Jing Yuan, Anan Li, Xin Yang, Zhihong Zhang.
 
+THe articl can be downloaded from the [here](http://engine.scichina.com/doi/10.1007/s11427-022-2327-y)
+
+
 
 # Content
 * software requirements
