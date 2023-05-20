@@ -4,7 +4,7 @@ C1M2: a universal algorithm for 3D instance segmentation, annotation and quantif
 
 Authors: Hao Zheng, Songlin Huang, Jing Zhang, Ren Zhang, Jialu Wang, Jing Yuan, Anan Li, Xin Yang, Zhihong Zhang.
 
-The research paper can be downloaded from [here](http://engine.scichina.com/doi/10.1007/s11427-022-2327-y)
+The research paper can be downloaded from [here](http://engine.scichina.com/doi/10.1007/s11427-022-2327-y).
 
 
 
@@ -20,10 +20,9 @@ The algorithm was implemented in MATLAB (R2022a, The MathWorks, Natick, Massachu
 # Getting started
 Add the C1M2 folder to the Matlab path
 
-The protocol of C1M2 can be downloaded from [here](https://www.sciengine.com/cfs/files/files/fs/1659449496276303872)
+The protocol of C1M2 can be downloaded from [here](https://www.sciengine.com/cfs/files/files/fs/1659449496276303872).
 
-Example datasets can be downloaded from  
-  [here](https://drive.google.com/file/d/14XyqgbmYaDFn46NxkOIlM9CeIktH3awT/view?usp=sharing)
+Example datasets can be downloaded from [here](https://drive.google.com/file/d/14XyqgbmYaDFn46NxkOIlM9CeIktH3awT/view?usp=sharing).
 
 The script of two_channel_f480.m, two_channel_cd11c.m and single_channel_cx3cr1.m for instance segmentation of F4/80<sup>+</sup>, CD11c<sup>+</sup> and Cx3Cr1<sup>+</sup> cells, respectively.
 
