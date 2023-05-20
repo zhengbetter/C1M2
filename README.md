@@ -9,7 +9,7 @@ The research paper can be downloaded from [here](http://engine.scichina.com/doi/
 
 
 # Content
-* software requirements
+* Software requirements
 * Getting started
 * Output files
 
