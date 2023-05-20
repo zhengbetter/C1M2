@@ -10,12 +10,14 @@ Authors: Hao Zheng, Songlin Huang, Jing Zhang, Ren Zhang, Jialu Wang, Jing Yuan,
 * Getting started
 * Output files
 
-# software requirements
+# Software requirements
 
 The algorithm was implemented in MATLAB (R2022a, The MathWorks, Natick, Massachusetts, USA) using custom-written scripts with dependencies on the Image Processing Toolbox and Statistics and Machine Learning Toolbox.
 
 # Getting started
 Add the C1M2 folder to the Matlab path
+
+The protocol of C1M2 can be downloaded from the [here](https://www.sciengine.com/cfs/files/files/fs/1659449496276303872)
 
 Example datasets can be downloaded from the 
   [here](https://drive.google.com/file/d/14XyqgbmYaDFn46NxkOIlM9CeIktH3awT/view?usp=sharing)
